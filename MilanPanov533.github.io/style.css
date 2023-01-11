@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 50px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+section {
+    min-height: 575px;
+    background: url('picture.jpg')center/cover no-repeat;
+}
+
+.myProjects {
+    margin-top: 30px;
+}
+.myProjects a{
+    color: rgb(86, 130, 202);
+}
